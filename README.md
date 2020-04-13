@@ -18,8 +18,11 @@ EAD - Exposure at Default.
 The steps undertaken to create the credit-risk model are as follows -
 
 Step 01 - Compute the probability of default for each of the potential borrowers 
+
 Step 02 - Compute the loss given default
+
 Step 03 - Compute the exposure at default
+
 Step 04 - Multiply them and find a cumulative sum of expected loss for all the potential borrowers
 
 This approach is called the Internal Ratings Based (IRB) approach and is widely used by financial institutions to create their own risk models.
