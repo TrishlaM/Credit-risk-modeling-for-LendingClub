@@ -15,7 +15,7 @@ PD - Probability of Default
 LGD - Loss Given Default and
 EAD - Exposure at Default.
 
-The steps undertaken to create the dredit-risk model are as follows -
+The steps undertaken to create the credit-risk model are as follows -
 
 Step 01 - Compute the probability of default for each of the potential borrowers 
 Step 02 - Compute the loss given default
