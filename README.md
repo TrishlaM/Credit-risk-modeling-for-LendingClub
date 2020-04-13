@@ -26,3 +26,5 @@ Step 03 - Compute the exposure at default
 Step 04 - Multiply them and find a cumulative sum of expected loss for all the potential borrowers
 
 This approach is called the Internal Ratings Based (IRB) approach and is widely used by financial institutions to create their own risk models.
+
+Data source - https://www.kaggle.com/wendykan/lending-club-loan-data
